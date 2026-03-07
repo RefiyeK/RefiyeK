@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89BCD9,100:262E34&height=220&section=header&text=Hallo,%20ich%20bin%20Refiye%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Frontend%20Developer%20%7C%20Mediendesignerin&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89BCD9,100:262E34&height=220&section=header&text=Hallo,%20ich%20bin%20Refiye%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Frontend%20Developer%20%7C%20Mediendesignerin&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
 </div>
 
 ## Über mich
@@ -15,9 +15,8 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 
 ## Tech Stack
 
-<div align="center">
+**Development**
 
-### Development
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,45 +26,31 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Design
+**Design**
+
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
-
-</div>
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RefiyeK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=29abe2&icon_color=29abe2&text_color=ffffff&count_private=true" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RefiyeK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=29abe2&text_color=ffffff&count_private=true" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RefiyeK&theme=tokyonight&hide_border=true&background=0d1117&ring=29abe2&fire=29abe2&currStreakLabel=29abe2" />
+  <img src="https://streak-stats.demolab.com/?user=RefiyeK&theme=tokyonight&hide_border=true&background=0d1117&ring=89BCD9&fire=89BCD9&currStreakLabel=89BCD9" />
 </div>
 
 ---
 
 ## Projekte
 
-<a href="https://github.com/RefiyeK/Join">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RefiyeK&repo=Join&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89BCD9&icon_color=89BCD9&text_color=F8F5EC" />
-</a>
+[![Join](https://img.shields.io/badge/🔹_Join-Kanban_Project_Management-89BCD9?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/RefiyeK/Join)
 
-<a href="https://github.com/RefiyeK/El-Pollo-Loco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RefiyeK&repo=El-Pollo-Loco&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89BCD9&icon_color=89BCD9&text_color=F8F5EC" />
-</a>
+[![El Pollo Loco](https://img.shields.io/badge/🎮_El_Pollo_Loco-2D_Jump_&_Run_Spiel-89BCD9?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/RefiyeK/El-Pollo-Loco)
 
-<a href="https://github.com/RefiyeK/Pokedex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RefiyeK&repo=Pokedex&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89BCD9&icon_color=89BCD9&text_color=F8F5EC" />
-</a>
+[![Pokédex](https://img.shields.io/badge/📖_Pokédex-Pokémon_Enzyklopädie-89BCD9?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/RefiyeK/Pokedex)
 
-<a href="https://github.com/RefiyeK/Bestellapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RefiyeK&repo=Bestellapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89BCD9&icon_color=89BCD9&text_color=F8F5EC" />
-</a>
+[![Bestellapp](https://img.shields.io/badge/🛒_Bestellapp-Online_Bestellsystem-89BCD9?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/RefiyeK/Bestellapp)
 
 ---
 
@@ -76,5 +61,5 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 </div>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89BCD9,100:262E34&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89BCD9,100:262E34&height=120&section=footer" width="100%" />
 </div>
