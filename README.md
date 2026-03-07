@@ -1,5 +1,5 @@
 <div align="center">
-            <img src="https://capsule-render.vercel.app/api?type=waving&color=0:262E34,100:89BCD9&height=300&section=header&text=Hallo,%20ich%20bin%20Refiye%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Junior%20Frontend%20Developer%20%7C%20Mediendesignerin&descSize=18&descAlignY=48&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:262E34,100:89BCD9&height=300&section=header&text=Hallo,%20ich%20bin%20Refiye%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Junior%20Frontend%20Developer%20%7C%20Mediendesignerin&descSize=18&descAlignY=48&descColor=ffffff" width="100%" />
 </div>
 
 ## Über mich
