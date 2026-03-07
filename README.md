@@ -54,6 +54,10 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 | Projekt | Beschreibung | Technologien |
 |---------|-------------|-------------|
 | [Join](https://github.com/RefiyeK/Join) | Kanban Project Management Tool | Angular, TypeScript, Firebase, SCSS |
+[El Pollo Loco](https://github.com/RefiyeK/El-Pollo-Loco) | 2D Jump & Run Spiel | JavaScript, HTML, CSS |
+| [Pokédex](https://github.com/RefiyeK/Pokedex) | Pokémon-Enzyklopädie mit API | JavaScript, HTML, CSS |
+| [Bestellapp](https://github.com/RefiyeK/Bestellapp) | Online-Bestellsystem | JavaScript, HTML, CSS |
+| [Portfolio](https://github.com/RefiyeK/Portfolio) | Persönliche Portfolio-Webseite | HTML, CSS, JavaScript |
 
 ---
 
