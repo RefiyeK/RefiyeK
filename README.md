@@ -51,13 +51,21 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 
 ## Projekte
 
-| Projekt | Beschreibung | Technologien |
-|---------|-------------|-------------|
-| [Join](https://github.com/RefiyeK/Join) | Kanban Project Management Tool | Angular, TypeScript, Firebase, SCSS |
-[El Pollo Loco](https://github.com/RefiyeK/El-Pollo-Loco) | 2D Jump & Run Spiel | JavaScript, HTML, CSS |
-| [Pokédex](https://github.com/RefiyeK/Pokedex) | Pokémon-Enzyklopädie mit API | JavaScript, HTML, CSS |
-| [Bestellapp](https://github.com/RefiyeK/Bestellapp) | Online-Bestellsystem | JavaScript, HTML, CSS |
-| [Portfolio](https://github.com/RefiyeK/Portfolio) | Persönliche Portfolio-Webseite | HTML, CSS, JavaScript |
+<a href="https://github.com/RefiyeK/Join">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RefiyeK&repo=Join&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89BCD9&icon_color=89BCD9&text_color=F8F5EC" />
+</a>
+
+<a href="https://github.com/RefiyeK/El-Pollo-Loco">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RefiyeK&repo=El-Pollo-Loco&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89BCD9&icon_color=89BCD9&text_color=F8F5EC" />
+</a>
+
+<a href="https://github.com/RefiyeK/Pokedex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RefiyeK&repo=Pokedex&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89BCD9&icon_color=89BCD9&text_color=F8F5EC" />
+</a>
+
+<a href="https://github.com/RefiyeK/Bestellapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RefiyeK&repo=Bestellapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89BCD9&icon_color=89BCD9&text_color=F8F5EC" />
+</a>
 
 ---
 
