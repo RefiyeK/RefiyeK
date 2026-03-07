@@ -60,6 +60,11 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
   </a>
 </div>
 
+## visitor counter
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RefiyeK&color=89BCD9&style=for-the-badge&label=Profile+Views" />
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89BCD9,100:262E34&height=120&section=footer" width="100%" />
 </div>
