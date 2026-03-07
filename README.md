@@ -2,6 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89BCD9,100:262E34&height=220&section=header&text=Hallo,%20ich%20bin%20Refiye%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Frontend%20Developer%20%7C%20Mediendesignerin&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
 </div>
 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RefiyeK/RefiyeK/main/logo-rk.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RefiyeK/RefiyeK/main/logo-dark.png" />
+    <img src="https://raw.githubusercontent.com/RefiyeK/RefiyeK/main/logo-rk.png" width="80" />
+  </picture>
+</div>
+
+
 ## Über mich
 
 Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediendesign. Ich verbinde kreatives Design mit modernem Code und entwickle responsive, benutzerfreundliche Webanwendungen.
