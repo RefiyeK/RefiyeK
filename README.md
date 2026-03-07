@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a3647,100:29abe2&height=220&section=header&text=Hallo,%20ich%20bin%20Refiye%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Frontend%20Developer%20%7C%20Mediendesignerin&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:262E34,100:89BCD9&height=220&section=header&text=Hallo,%20ich%20bin%20Refiye%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Frontend%20Developer%20%7C%20Mediendesignerin&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
 </div>
 
 ## Über mich
@@ -68,5 +68,5 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a3647,100:29abe2&height=120&section=footer" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:262E34,100:89BCD9&height=120&section=footer" width="100%" />
 </div>
