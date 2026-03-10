@@ -56,12 +56,11 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 
 [![Join - Code](https://img.shields.io/badge/🔹_Join-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Join) [![Join - Live](https://img.shields.io/badge/▶_Join-Live_Demo-262E34?style=for-the-badge&logo=firebase&logoColor=white)](https://join-refiye-41dba.web.app)
 
-[![El Pollo Loco](https://img.shields.io/badge/🎮_El_Pollo_Loco-2D_Jump_&_Run_Spiel-89BCD9?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/RefiyeK/El-Pollo-Loco)
+[![El Pollo Loco - Code](https://img.shields.io/badge/🎮_El_Pollo_Loco-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/El-Pollo-Loco-Game) [![El Pollo Loco - Live](https://img.shields.io/badge/▶_El_Pollo_Loco-Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/El-Pollo-Loco-Game/)
 
-[![Pokédex](https://img.shields.io/badge/📖_Pokédex-Pokémon_Enzyklopädie-89BCD9?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/RefiyeK/Pokedex)
+[![Pokédex - Code](https://img.shields.io/badge/📖_Pokédex-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/pokedex) [![Pokédex - Live](https://img.shields.io/badge/▶_Pokédex-Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/pokedex/)
 
-[![Bestellapp](https://img.shields.io/badge/🛒_Bestellapp-Online_Bestellsystem-89BCD9?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/RefiyeK/Bestellapp)
-
+[![Bestellapp](https://img.shields.io/badge/🛒_Bestellapp-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Bestellapp)
 ---
 
 <div align="center">
