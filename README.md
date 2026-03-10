@@ -21,7 +21,6 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 - 🎨 Mein Designhintergrund hilft mir, UI/UX bewusst zu gestalten
 - 📫 Erreichbar über **[LinkedIn](https://www.linkedin.com/in/refiye-kuelhanbey/)**
 
----
 
 ## Tech Stack
 
