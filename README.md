@@ -54,7 +54,7 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 
 ## Projekte
 
-[![Join](https://img.shields.io/badge/🔹_Join-Kanban_Project_Management-89BCD9?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/RefiyeK/Join)
+[![Join - Code](https://img.shields.io/badge/🔹_Join-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Join) [![Join - Live](https://img.shields.io/badge/▶_Join-Live_Demo-262E34?style=for-the-badge&logo=firebase&logoColor=white)](https://join-refiye-41dba.web.app)
 
 [![El Pollo Loco](https://img.shields.io/badge/🎮_El_Pollo_Loco-2D_Jump_&_Run_Spiel-89BCD9?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/RefiyeK/El-Pollo-Loco)
 
