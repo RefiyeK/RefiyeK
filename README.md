@@ -49,15 +49,13 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 
 ## Projekte
 
-[![Join - Code](https://img.shields.io/badge/🔹_Join-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Join) [![Join - Live](https://img.shields.io/badge/▶_Join-Live_Demo-262E34?style=for-the-badge&logo=firebase&logoColor=white)](https://join-refiye-41dba.web.app)
-
 [![Join - Code](https://img.shields.io/badge/🔹_Join-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Join) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=firebase&logoColor=white)](https://join-refiye-41dba.web.app)
 
-[![El Pollo Loco - Code](https://img.shields.io/badge/🎮_El_Pollo_Loco-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/El-Pollo-Loco-Game) [![Live](https://img.shields.io/badge/▶_El_Pollo_Loco-Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/El-Pollo-Loco-Game/)
+[![Code](https://img.shields.io/badge/🎮_GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/El-Pollo-Loco-Game) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/El-Pollo-Loco-Game/)
 
-[![Pokédex - Code](https://img.shields.io/badge/📖_Pokédex-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/pokedex) [![Live](https://img.shields.io/badge/▶_Pokédex-Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/pokedex/)
+[![Code](https://img.shields.io/badge/📖_GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/pokedex) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/pokedex/)
 
-[![Bestellapp - Code](https://img.shields.io/badge/🛒_Bestellapp-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Bestellapp) [![Live](https://img.shields.io/badge/▶_Bestellapp-Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/bestellapp/)
+[![Code](https://img.shields.io/badge/🛒_GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Bestellapp) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/bestellapp/)
 
 
 <div align="center">
