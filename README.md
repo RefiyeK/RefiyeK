@@ -43,11 +43,7 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RefiyeK&theme=tokyonight&hide_border=true&background=0d1117&ring=89BCD9&fire=89BCD9&currStreakLabel=89BCD9" />
-</div>
 
 ---
 
