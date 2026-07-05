@@ -16,7 +16,7 @@
 
 Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediendesign. Ich verbinde kreatives Design mit modernem Code und entwickle responsive, benutzerfreundliche Webanwendungen.
 
-- 🔭 Aktuell arbeite ich an **[Join](https://github.com/RefiyeK/Join)** — einer Kanban Project Management App
+- 🔭 Aktuell arbeite ich an **[Coder](https://github.com/RefiyeK/coder)** — einem Backend-orientierten Projekt und vertiefe meine Kenntnisse im Backend-Kurs
 - 🌱 Ich lerne gerade **Angular** und vertiefe mein Wissen in **TypeScript**
 - 🎨 Mein Designhintergrund hilft mir, UI/UX bewusst zu gestalten
 - 📫 Erreichbar über **[LinkedIn](https://www.linkedin.com/in/refiye-kuelhanbey/)**
@@ -57,6 +57,7 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 
 [![Bestellapp - Code](https://img.shields.io/badge/🛒_Bestellapp-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Bestellapp) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/bestellapp/)
 
+[![Portfolio - Code](https://img.shields.io/badge/💼_Portfolio-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/portfolio) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.refiye-kuelhanbey.com)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/refiye-kuelhanbey/">
