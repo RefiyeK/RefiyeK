@@ -16,7 +16,7 @@
 
 Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediendesign. Ich verbinde kreatives Design mit modernem Code und entwickle responsive, benutzerfreundliche Webanwendungen.
 
-- 🔭 Aktuell arbeite ich an **[Coder](https://github.com/RefiyeK/coder)** — einem Backend-orientierten Projekt und vertiefe meine Kenntnisse im Backend-Kurs
+- 🔭 Aktuell arbeite ich an **[Coderr](https://[github.com/RefiyeK/coderr](https://github.com/RefiyeK/coderr-backend))** — einem Backend-orientierten Projekt und vertiefe meine Kenntnisse im Backend-Kurs
 - 🌱 Ich lerne gerade **Angular** und vertiefe mein Wissen in **TypeScript**
 - 🎨 Mein Designhintergrund hilft mir, UI/UX bewusst zu gestalten
 - 📫 Erreichbar über **[LinkedIn](https://www.linkedin.com/in/refiye-kuelhanbey/)**
