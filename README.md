@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RefiyeK/RefiyeK/main/banner.svg" alt="Refiye - Full-Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/RefiyeK/RefiyeK/main/banner.png" alt="Refiye - Full-Stack Developer" width="100%" />
 </div>
 
 
