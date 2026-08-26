@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89BCD9,100:262E34&height=220&section=header&text=Hallo,%20ich%20bin%20Refiye%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Frontend%20Developer%20%7C%20Mediendesignerin&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89BCD9,100:262E34&height=220&section=header&text=Hallo,%20ich%20bin%20Refiye%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mediendesignerin&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/RefiyeK">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=89BCD9&center=true&vCenter=true&width=520&lines=Full-Stack+Developerin;Frontend+%2B+Django+REST+Backend;Design+trifft+auf+sauberen+Code" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <picture>
@@ -11,20 +16,19 @@
   </picture>
 </div>
 
-
 ## Über mich
 
-Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediendesign. Ich verbinde kreatives Design mit modernem Code und entwickle responsive, benutzerfreundliche Webanwendungen.
+Ich bin **Refiye**, Full-Stack Developerin mit einem Hintergrund im Mediendesign. Ich verbinde kreatives Design mit modernem Code — vom responsiven Frontend bis zum REST-API-Backend mit Django.
 
-- 🔭 Aktuell arbeite ich an **[Coderr-Backend](https://github.com/RefiyeK/coderr-backend)** — einem Backend-orientierten Projekt und vertiefe meine Kenntnisse im Backend-Kurs
-- 🌱 Ich lerne gerade **Angular** und vertiefe mein Wissen in **TypeScript**
-- 🎨 Mein Designhintergrund hilft mir, UI/UX bewusst zu gestalten
+- 🎓 Ich habe gerade mein letztes Full-Stack-Projekt eingereicht und schließe damit meine Ausbildung zur Entwicklerin ab
+- 💻 Ich arbeite mit **JavaScript**, **Angular** und **TypeScript** im Frontend sowie **Python** und **Django REST Framework** im Backend
+- 🎨 Mein Designhintergrund hilft mir, UI/UX bewusst und benutzerfreundlich zu gestalten
+- 🏡 Auf der Suche nach Remote-Positionen als Entwicklerin
 - 📫 Erreichbar über **[LinkedIn](https://www.linkedin.com/in/refiye-kuelhanbey/)**
-
 
 ## Tech Stack
 
-**Development**
+**Frontend**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,39 +36,82 @@ Ich bin **Refiye**, Junior Frontend Developerin mit einem Hintergrund im Mediend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools & Design**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Design**
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
 ---
 
+## 🎨 Frontend-Projekte
 
+> Alle mit Live-Demo — direkt im Browser ausprobierbar.
+
+[![Join](https://img.shields.io/badge/🔹_Join-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Join) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=firebase&logoColor=white)](https://join-refiye-41dba.web.app)
+
+Kanban-Projektmanagement-Tool (Gruppenprojekt, 4 Entwickler:innen — Fork der abgenommenen Version). **Mein Anteil:** Login-/Landing-Page (UI + Logo-Animation), Seiten-Navigation (mobil als Footer), Summary-Bereich, Header, mobile Ansichten von Contacts & Contact-List, Board-Karten-Detailansicht, Datenschutz & Impressum.
+
+[![El Pollo Loco](https://img.shields.io/badge/🎮_El_Pollo_Loco-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/El-Pollo-Loco-Game) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/El-Pollo-Loco-Game/)
+
+Jump-and-Run-Spiel mit Vanilla JavaScript, objektorientiert aufgebaut — mit Soundsteuerung, Vollbildmodus und Kollisionslogik.
+
+[![Pokédex](https://img.shields.io/badge/📖_Pokédex-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/pokedex) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/pokedex/)
+
+Responsive Pokémon-Web-App, die Daten live aus der PokéAPI lädt — mit Suche und Detailansichten.
+
+[![Bestellapp](https://img.shields.io/badge/🛒_Bestellapp-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Bestellapp) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/bestellapp/)
+
+Liefer-/Bestell-Oberfläche mit interaktivem Warenkorb und Gesamtberechnung.
+
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/portfolio) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.refiye-kuelhanbey.com)
+
+Mein persönliches Portfolio — zweisprachig (DE/EN), responsive, mit eigenem Design.
 
 ---
 
-## Projekte
+## ⚙️ Backend-Projekte
 
-[![Join - Code](https://img.shields.io/badge/🔹_Join-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Join) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=firebase&logoColor=white)](https://join-refiye-41dba.web.app)
+> Django-REST-Backends. Server-basiert, daher keine Live-Demo — Code und Doku im jeweiligen Repo.
 
-[![El Pollo Loco - Code](https://img.shields.io/badge/🎮_El_Pollo_Loco-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/El-Pollo-Loco-Game) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/El-Pollo-Loco-Game/)
+[![Videoflix](https://img.shields.io/badge/🎬_Videoflix-GitHub_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/videoflix-backend)
 
-[![Pokédex - Code](https://img.shields.io/badge/📖_Pokédex-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/pokedex) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/pokedex/)
+Video-Streaming-Backend: Registrierung mit E-Mail-Aktivierung, JWT-Auth über HttpOnly-Cookies, Passwort-Reset per E-Mail und HLS-Video-Streaming. Uploads werden im Hintergrund via FFMPEG und Redis-Queue in HLS (480p/720p/1080p) umgewandelt.
 
-[![Bestellapp - Code](https://img.shields.io/badge/🛒_Bestellapp-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Bestellapp) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/bestellapp/)
+[![Coderr](https://img.shields.io/badge/💼_Coderr-GitHub_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/coderr-backend)
 
-[![Portfolio - Code](https://img.shields.io/badge/💼_Portfolio-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/portfolio) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.refiye-kuelhanbey.com)
+REST-Backend für eine Freelancer-Plattform: Angebote, Bestellungen, Bewertungen und Profile mit rollenbasierten Rechten.
+
+[![Quizly](https://img.shields.io/badge/🧠_Quizly-GitHub_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Quizly-Backend)
+
+Backend, das aus einem YouTube-Link automatisch ein Quiz erstellt: lädt die Audiospur, transkribiert sie und generiert per KI ein Multiple-Choice-Quiz.
+
+[![KanMind](https://img.shields.io/badge/📋_KanMind-GitHub_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/kanmind)
+
+Kanban-Projektmanagement-API mit Boards, Tasks und Kommentaren über tokenbasierte Authentifizierung.
+
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/refiye-kuelhanbey/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.refiye-kuelhanbey.com">
+    <img src="https://img.shields.io/badge/Portfolio-89BCD9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89BCD9,100:262E34&height=120&section=footer" width="100%" />
