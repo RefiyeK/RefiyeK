@@ -95,9 +95,9 @@ Video-Streaming-Backend: Registrierung mit E-Mail-Aktivierung, JWT-Auth über Ht
 [![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/videoflix-backend)
 
 ### Coderr
-REST-Backend für eine Freelancer-Plattform: Angebote, Bestellungen, Bewertungen und Profile mit rollenbasierten Rechten.
+REST-Backend für eine Freelancer-Plattform: Angebote, Bestellungen, Bewertungen und Profile mit rollenbasierten Rechten. Live deployed mit angebundenem Frontend.
 
-[![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/coderr-backend)
+[![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/coderr-backend) [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-89BCD9?style=for-the-badge&logoColor=white)](https://coderr.refiye-kuelhanbey.com/)
 
 ### Quizly
 Backend, das aus einem YouTube-Link automatisch ein Quiz erstellt: lädt die Audiospur, transkribiert sie und generiert per KI ein Multiple-Choice-Quiz.
