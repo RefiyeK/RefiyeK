@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/RefiyeK">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=89BCD9&center=true&vCenter=true&width=520&lines=Full-Stack+Developerin;Frontend+%2B+Django+REST+Backend;Design+trifft+auf+sauberen+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=89BCD9&center=true&vCenter=true&width=560&lines=Junior+Full-Stack+Developerin;Frontend+%2B+Django+REST+Backend;KI-gest%C3%BCtztes+Arbeiten;Design+trifft+auf+sauberen+Code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,10 +13,11 @@
 
 ## Über mich
 
-Ich bin **Refiye**, Full-Stack Developerin mit einem Hintergrund im Mediendesign. Ich verbinde kreatives Design mit modernem Code — vom responsiven Frontend bis zum REST-API-Backend mit Django.
+Ich bin **Refiye**, Junior Full-Stack Developerin mit einem Hintergrund im Mediendesign. Ich verbinde kreatives Design mit modernem Code — vom responsiven Frontend bis zum REST-API-Backend mit Django.
 
 - 🎓 Ich habe gerade mein letztes Full-Stack-Projekt eingereicht und schließe damit meine Ausbildung zur Entwicklerin ab
 - 💻 Ich arbeite mit **JavaScript**, **Angular** und **TypeScript** im Frontend sowie **Python** und **Django REST Framework** im Backend
+- 🤖 Ich arbeite gerne mit **KI-gestützten Tools** und bevorzuge Teams, die offen für KI-unterstütztes Arbeiten sind — in meinem Projekt **Quizly** habe ich KI (Whisper + Gemini) in der Praxis eingesetzt
 - 🎨 Mein Designhintergrund hilft mir, UI/UX bewusst und benutzerfreundlich zu gestalten
 - 🏡 Auf der Suche nach Remote-Positionen als Entwicklerin
 - 📫 Erreichbar über **[LinkedIn](https://www.linkedin.com/in/refiye-kuelhanbey/)**
