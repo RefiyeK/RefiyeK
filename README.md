@@ -56,50 +56,58 @@ Ich bin Refiye, Junior Full-Stack Developerin mit einem Hintergrund im Mediendes
 
 ## 🎨 Frontend-Projekte
 
-> Alle mit Live-Demo — direkt im Browser ausprobierbar.
+Alle mit Live-Demo — direkt im Browser ausprobierbar.
 
-[![Join](https://img.shields.io/badge/🔹_Join-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Join) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=firebase&logoColor=white)](https://join-refiye-41dba.web.app)
+### Join
+Kanban-Projektmanagement-Tool (Gruppenprojekt, 4 Entwickler:innen — Fork der abgenommenen Version). Mein Anteil: Login-/Landing-Page (UI + Logo-Animation), Seiten-Navigation (mobil als Footer), Summary-Bereich, Header, mobile Ansichten von Contacts & Contact-List, Board-Karten-Detailansicht, Datenschutz & Impressum.
 
-Kanban-Projektmanagement-Tool (Gruppenprojekt, 4 Entwickler:innen — Fork der abgenommenen Version). **Mein Anteil:** Login-/Landing-Page (UI + Logo-Animation), Seiten-Navigation (mobil als Footer), Summary-Bereich, Header, mobile Ansichten von Contacts & Contact-List, Board-Karten-Detailansicht, Datenschutz & Impressum.
+[![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Join) [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-89BCD9?style=for-the-badge&logoColor=white)](https://join-refiye-41dba.web.app)
 
-[![El Pollo Loco](https://img.shields.io/badge/🎮_El_Pollo_Loco-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/El-Pollo-Loco-Game) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/El-Pollo-Loco-Game/)
-
+### El Pollo Loco
 Jump-and-Run-Spiel mit Vanilla JavaScript, objektorientiert aufgebaut — mit Soundsteuerung, Vollbildmodus und Kollisionslogik.
 
-[![Pokédex](https://img.shields.io/badge/📖_Pokédex-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/pokedex) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/pokedex/)
+[![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/El-Pollo-Loco-Game) [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-89BCD9?style=for-the-badge&logoColor=white)](https://refiyek.github.io/El-Pollo-Loco-Game/)
 
+### Pokédex
 Responsive Pokémon-Web-App, die Daten live aus der PokéAPI lädt — mit Suche und Detailansichten.
 
-[![Bestellapp](https://img.shields.io/badge/🛒_Bestellapp-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Bestellapp) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://refiyek.github.io/bestellapp/)
+[![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/pokedex) [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-89BCD9?style=for-the-badge&logoColor=white)](https://refiyek.github.io/pokedex/)
 
+### Bestellapp
 Liefer-/Bestell-Oberfläche mit interaktivem Warenkorb und Gesamtberechnung.
 
-[![Portfolio](https://img.shields.io/badge/💼_Portfolio-GitHub_Repo-89BCD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/portfolio) [![Live](https://img.shields.io/badge/▶_Live_Demo-262E34?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.refiye-kuelhanbey.com)
+[![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Bestellapp) [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-89BCD9?style=for-the-badge&logoColor=white)](https://refiyek.github.io/bestellapp/)
 
+### Portfolio
 Mein persönliches Portfolio — zweisprachig (DE/EN), responsive, mit eigenem Design.
+
+[![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/portfolio) [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-89BCD9?style=for-the-badge&logoColor=white)](https://www.refiye-kuelhanbey.com)
 
 ---
 
 ## ⚙️ Backend-Projekte
 
-> Django-REST-Backends. Server-basiert, daher keine Live-Demo — Code und Doku im jeweiligen Repo.
+Django-REST-Backends. Server-basiert, daher keine Live-Demo — Code und Doku im jeweiligen Repo.
 
-[![Videoflix](https://img.shields.io/badge/🎬_Videoflix-GitHub_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/videoflix-backend)
-
+### Videoflix
 Video-Streaming-Backend: Registrierung mit E-Mail-Aktivierung, JWT-Auth über HttpOnly-Cookies, Passwort-Reset per E-Mail und HLS-Video-Streaming. Uploads werden im Hintergrund via FFMPEG und Redis-Queue in HLS (480p/720p/1080p) umgewandelt.
 
-[![Coderr](https://img.shields.io/badge/💼_Coderr-GitHub_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/coderr-backend)
+[![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/videoflix-backend)
 
+### Coderr
 REST-Backend für eine Freelancer-Plattform: Angebote, Bestellungen, Bewertungen und Profile mit rollenbasierten Rechten.
 
-[![Quizly](https://img.shields.io/badge/🧠_Quizly-GitHub_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Quizly-Backend)
+[![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/coderr-backend)
 
+### Quizly
 Backend, das aus einem YouTube-Link automatisch ein Quiz erstellt: lädt die Audiospur, transkribiert sie und generiert per KI ein Multiple-Choice-Quiz.
 
-[![KanMind](https://img.shields.io/badge/📋_KanMind-GitHub_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/kanmind)
+[![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/Quizly-Backend)
 
+### KanMind
 Kanban-Projektmanagement-API mit Boards, Tasks und Kommentaren über tokenbasierte Authentifizierung.
 
+[![Repo](https://img.shields.io/badge/▸_Repo-262E34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefiyeK/kanmind)
 ---
 
 <div align="center">
