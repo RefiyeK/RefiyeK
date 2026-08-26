@@ -120,5 +120,5 @@ Kanban-Projektmanagement-API mit Boards, Tasks und Kommentaren über tokenbasier
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89BCD9,100:262E34&height=120&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/RefiyeK/RefiyeK/main/footer.png" alt="Refiye Külhanbey - Full-Stack Developer" width="100%" />
 </div>
