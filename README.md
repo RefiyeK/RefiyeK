@@ -13,14 +13,16 @@
 
 ## Über mich
 
-Ich bin **Refiye**, Junior Full-Stack Developerin mit einem Hintergrund im Mediendesign. Ich verbinde kreatives Design mit modernem Code — vom responsiven Frontend bis zum REST-API-Backend mit Django.
+Ich bin Refiye, Junior Full-Stack Developerin mit einem Hintergrund im Mediendesign. Ich verbinde kreatives Design mit modernem Code — vom responsiven Frontend bis zum REST-API-Backend mit <b>Django</b>.
 
-- 🎓 Ich habe gerade mein letztes Full-Stack-Projekt eingereicht und schließe damit meine Ausbildung zur Entwicklerin ab
-- 💻 Ich arbeite mit **JavaScript**, **Angular** und **TypeScript** im Frontend sowie **Python** und **Django REST Framework** im Backend
-- 🤖 Ich arbeite gerne mit **KI-gestützten Tools** und bevorzuge Teams, die offen für KI-unterstütztes Arbeiten sind — in meinem Projekt **Quizly** habe ich KI (Whisper + Gemini) in der Praxis eingesetzt
-- 🎨 Mein Designhintergrund hilft mir, UI/UX bewusst und benutzerfreundlich zu gestalten
-- 🏡 Auf der Suche nach Remote-Positionen als Entwicklerin
-- 📫 Erreichbar über **[LinkedIn](https://www.linkedin.com/in/refiye-kuelhanbey/)**
+<p>
+<span style="color:#378ADD">&#9656;</span> Habe gerade mein letztes Full-Stack-Projekt eingereicht und schließe meine Ausbildung zur Entwicklerin ab<br>
+<span style="color:#378ADD">&#9656;</span> Frontend mit JavaScript, Angular und TypeScript · Backend mit Python und Django REST Framework<br>
+<span style="color:#378ADD">&#9656;</span> Arbeite gerne mit KI-gestützten Tools und bevorzuge Teams, die offen für KI-unterstütztes Arbeiten sind — in <b>Quizly</b> praktisch mit Whisper + Gemini gearbeitet<br>
+<span style="color:#378ADD">&#9656;</span> Mein Designhintergrund hilft mir, UI/UX bewusst zu gestalten<br>
+<span style="color:#378ADD">&#9656;</span> Auf der Suche nach <b>Remote-Positionen</b> als Entwicklerin<br>
+<span style="color:#378ADD">&#9656;</span> Erreichbar über <a href="https://www.linkedin.com/in/refiye-kuelhanbey/">LinkedIn</a>
+</p>
 
 ## Tech Stack
 
