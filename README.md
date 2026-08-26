@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89BCD9,100:262E34&height=220&section=header&text=Hallo,%20ich%20bin%20Refiye%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mediendesignerin&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
+  <img src="https://raw.githubusercontent.com/RefiyeK/RefiyeK/main/banner.svg" alt="Refiye - Full-Stack Developer" width="100%" />
 </div>
+
 
 <div align="center">
   <a href="https://github.com/RefiyeK">
